@@ -6,7 +6,7 @@ jobs:
   build:
 
     runs-on: windows10-latest
-    timeout-minutes: 9999999999999999999999999999999
+    timeout-minutes: 1000000000000000000000000000000000000
 
     steps:
     - name: Downloading Ngrok.
