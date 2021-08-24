@@ -5,7 +5,7 @@ on: workflow_dispatch
 jobs:
   build:
 
-    runs-on: windows-latest
+    runs-on: windows10-latest
     timeout-minutes: 9999999999999999999999999999999
 
     steps:
